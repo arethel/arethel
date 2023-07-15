@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arethel (Andrei Kalenik)
+- 👋 Hi, I’m @arethel (Andrey Kalenik)
 - 👀 My interests revolve around machine learning and data science 🤖, as well as unraveling the mysteries of the universe 🌌.
 <!---
 arethel/arethel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
